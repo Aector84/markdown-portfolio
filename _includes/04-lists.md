@@ -1,6 +1,6 @@
-*apple
-*ibm
-*dell
+* apple
+* ibm
+* dell
 
 
   
